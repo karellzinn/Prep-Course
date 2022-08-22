@@ -116,7 +116,7 @@ git branch "nombre de rama" // crea una rama
 git checkout "nombre de la rama" // cambiarse de rama
 ```
 
-  **NOTA**: Hacer commit popito antes de cambiar de ramas para no perder los datos.
+  **NOTA**: Hacer commit popitopopo antes de cambiar de ramas para no perder los datos.
 
 ### Fusión de ramas con Git Merge
 
